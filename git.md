@@ -21,3 +21,7 @@ git add .
 ```
 git commit -m "your message"
 ```
+7. to sync changes use this
+```
+git push
+```
